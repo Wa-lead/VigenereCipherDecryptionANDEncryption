@@ -1,4 +1,4 @@
-# VigenereCipherDecryptionANDEncryptionThis program uses the Vigenere Cipher to encrypt your message using a specific key that provide
+# VigenereCipherDecryptionANDEncryptionThis program for encryption / decryption based on frequency
 
 --> How to use <--
 *note: Before you start the encryption process.
