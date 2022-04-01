@@ -9,7 +9,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class main {
+public class Decryption {
     static String chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789,.?! ";
     static ArrayList<Double> emergingFrequency = new ArrayList<Double>();
 
