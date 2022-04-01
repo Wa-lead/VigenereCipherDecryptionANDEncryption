@@ -3,7 +3,7 @@ package com.company;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class Encrypt {
     static char[] dictionary = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789,.?! ".toCharArray();
     static ArrayList<Character> chars = new ArrayList<>();
 
